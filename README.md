@@ -1,16 +1,15 @@
-<div style="display:flex;                       flex-direction: column;
-      align-items: center">
-    <div style="font-size: 2em;">
+<div align="center">
+    <h1>
         Hi There <img></img>, I'm Adam
-    </div>
+    </h1>
     <img src="./resources/rotating_segments.gif">
     </img>
-    <div>
+    <h2>
         Computer engineering student at Polytechique Montréal
-    </div>
+    </h2>
 </div>
 <img src="./resources/lineSplit.gif"></img>
-<div style="font-size: 2em;">Interests</div>
+<h1>Interests</h1>
 <ul>
     <li>Embedded software</li>
     <li>Computer architecture</li>
@@ -19,4 +18,4 @@
     <li>Graphics rendering (openGl)</li>
 </ul>
 
-<div>More To Come!</div>
+<h2>More To Come!</h2>
